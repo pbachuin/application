@@ -1,2 +1,3 @@
 this is file c
 lets make a change
+this is for squash merge 
